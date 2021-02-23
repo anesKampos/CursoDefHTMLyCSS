@@ -1,0 +1,14 @@
+/* Etiqueta */
+p{
+    color: burlywood;
+    font-size: 100px;
+}
+/* class */
+.parrafo{
+    color:crimson;
+}
+/* ID */
+#texto{
+    color: blueviolet;
+    font-size: 24px;
+}
