@@ -1,0 +1,14 @@
+p{
+    font-size: large;
+    color: blueviolet;
+}
+.main_list{
+    padding-left: 10px;
+    text-decoration: none;
+}
+.main_list__listitem{
+
+}
+.main_list__listitem:hover{
+    text-decoration: "algo";
+}
