@@ -23,7 +23,7 @@
 #one{
     border-radius: 10px;
     position: relative;
-    bottom: 80px;
+    bottom: 225px;
     width: 50%;
     height: 50px;
     padding: 15px;
@@ -34,7 +34,14 @@
     position: relative;
     top: 100px;
     width: 80%;
-    height: 150px;
+    height: 300px;
     padding: 30px;
-    padding-top: 30px;
+    padding-top: 50px;
+}
+img{
+    width: 100px;
+    height: 100px;
+}
+figure{
+    padding: 20px;
 }
